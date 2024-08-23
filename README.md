@@ -1,4 +1,4 @@
-# PHY407-cwt
+# continuous-wavelet-transform
 [old!] Project on the continuous wavelet transform for PHY407: Computational Physics. Includes separate implementation of the short-time Fourier transform and generic signal convolution.
 
 Sample output of cwt.py:

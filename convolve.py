@@ -12,7 +12,7 @@ def convolve(a,b,animate=False):
     len_b = len(b)
     
     #Force the shorter array to be a
-    if len(a) >= len(b):
+    if len_a >= len_b:
         a,b = b,a
         len_a,len_b = len_b,len_a
         
